@@ -1,0 +1,23 @@
+{
+  "name": "svg-logo-maker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayr482/svg-logo-maker.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayr482/svg-logo-maker/issues"
+  },
+  "homepage": "https://github.com/rayr482/svg-logo-maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^24.9.0"
+  }
+}
