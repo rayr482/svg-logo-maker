@@ -6,4 +6,4 @@ This application was made to easily generate a SVG Logo of your desire. By answe
 
 ## Link to Walkthrough Video
 
-
+https://drive.google.com/file/d/1gO-9SpF3rq98w3h8OcGdfkCRBWBXcQIy/view
